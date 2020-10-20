@@ -9,9 +9,9 @@ This is a simple notification app, where you can write a title and a message tha
 
 ## How to use
 
-**1.** Install ***yarn*** and ***expo***.
-**2.** Clone the repository with `git clone https://github.com/sandromai/expo-notifications.git`.
-**3.** Open the project folder and run `yarn`.
-**4.** Login to your expo account with `expo login` or register with `expo register`.
-**5.** Run the project with `yarn start`.
-**6.** You can now open the app on an emulator or physical device!
+- Install ***yarn*** and ***expo***.
+- Clone the repository with `git clone https://github.com/sandromai/expo-notifications.git`.
+- Open the project folder and run `yarn`.
+- Login to your expo account with `expo login` or register with `expo register`.
+- Run the project with `yarn start`.
+- You can now open the app on an emulator or physical device!
